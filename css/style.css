@@ -111,6 +111,11 @@ ul {
 .contact .contact-list .contact-list-link {
     color: #434455;
 }
+
+.contact .contact-list .contact-list-link:hover, .contact .contact-list .contact-list-link:focus {
+    color: #404bbf;
+}
+
 /* END */
 
 
