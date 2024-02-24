@@ -24,6 +24,7 @@ h2 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    color: #2e2f42;
 }
 
 h3 {
@@ -31,6 +32,7 @@ h3 {
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 p {
@@ -102,6 +104,13 @@ ul {
     font-weight: 500;
 }
 
+.contact {
+    font-style: normal;
+}
+
+.contact .contact-list .contact-list-link {
+    color: #434455;
+}
 /* END */
 
 
@@ -141,6 +150,11 @@ ul {
 }
 
 .footer .logo {
+    color: #4d5ae5;
+    
+}
+
+.footer .logo-color {
     color: #f4f4fd;
     
 }
